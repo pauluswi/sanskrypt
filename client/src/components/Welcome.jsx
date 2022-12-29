@@ -69,7 +69,7 @@ const Welcome = () => {
             </div>
             <div className={companyCommonStyles}>Solidity</div>
             <div className={`rounded-br-2xl ${companyCommonStyles}`}>
-              Goerli
+              DeFi
             </div>
           </div>
         </div>
